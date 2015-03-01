@@ -1,0 +1,15 @@
+Font Awesome 
+by Dave Gandy
+http://fontawesome.io
+Font License: SIL OFL 1.1
+Code License: MIT License
+Documentation License: CC BY 3.0
+
+
+WebHostingHub Glyphs
+http://www.webhostinghub.com/glyphs/
+
+Font License: SIL Open Font License
+Other Parts License: CC BY 3.0
+
+

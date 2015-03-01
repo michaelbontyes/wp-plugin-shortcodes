@@ -1,0 +1,3097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Drag and Drop Shortcodes\n"
+"POT-Creation-Date: 2014-04-08 15:28+0100\n"
+"PO-Revision-Date: 2014-04-08 15:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: isui_plugin_ <support@ab-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/enqueue_scripts.php:35
+msgid "Save"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:36
+msgid ""
+"Something is mess-up with page content.<br><br>Check the syntax:<br>- Every "
+"shortcode must have closing tag<br>(e.g. [gallery ids=\"1,20\"] should be "
+"[gallery ids=\"1,20\"][/gallery])<br>- Use double quotes for attributes"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:37
+msgid "Delete Section"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:38
+msgid "Duplicate Section"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:39
+msgid "Edit Section"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:40
+msgid "Remove Column"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:41 ../admin/shortcodes.php:17
+msgid "Add Column"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:42
+msgid "Add Element"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:43
+msgid "Edit Column"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:44 ../admin/shortcodes.php:723
+#: ../admin/shortcodes.php:2047 ../admin/shortcodes.php:2855
+msgid "Text"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:45
+msgid "Delete Element"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:46
+msgid "Duplicate Element"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:47
+msgid "Edit Element"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:48 ../admin/redux.php:43
+msgid "Drag & Drop"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:49
+msgid "Add a Shortcode"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:50
+msgid "Add Section"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:51
+msgid "Save Layout"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:52
+msgid "Delete Layout"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:53
+msgid "Enter layout name"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:54
+msgid "Layout name to delete"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:55
+msgid "Layout successfully saved"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:56
+msgid "Select saved layout to load"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:57
+msgid "or"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:58
+msgid "Rearange Sections"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:59
+msgid "Are you sure?"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:60
+msgid "Custom Column Class"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:61
+msgid "Animation"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:62 ../admin/shortcodes.php:121
+#: ../admin/shortcodes.php:746 ../admin/shortcodes.php:1366
+#: ../admin/shortcodes.php:2130 ../admin/shortcodes.php:2629
+msgid "None"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:63
+msgid "Animation Duration ms"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:64
+msgid "Animation Delay ms"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:65
+msgid "Custom Section Class"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:66 ../admin/shortcodes.php:37
+msgid "Fullwidth Content"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:67 ../admin/shortcodes.php:54
+msgid "Video Background"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:68 ../admin/shortcodes.php:57
+msgid ""
+"If checked video background will be enabled. Video files should have same "
+"name as Background Image, and same path, only different extensions (mp4,webm,"
+"ogv files required). You can use Miro Converter to convert files in required "
+"formats."
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:69 ../admin/shortcodes.php:42
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:70
+msgid "Background Image URL"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:71
+msgid "Background Parallax Factor"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:72
+#, php-format
+msgid "0.1 means 10% of scroll, 2 means twice of scroll"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:73 ../admin/shortcodes.php:122
+#: ../admin/shortcodes.php:349 ../admin/shortcodes.php:425
+#: ../admin/shortcodes.php:747 ../admin/shortcodes.php:1367
+msgid "Flip"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:74 ../admin/shortcodes.php:123
+#: ../admin/shortcodes.php:350 ../admin/shortcodes.php:426
+#: ../admin/shortcodes.php:748 ../admin/shortcodes.php:1368
+msgid "Flip In X"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:75 ../admin/shortcodes.php:124
+#: ../admin/shortcodes.php:351 ../admin/shortcodes.php:427
+#: ../admin/shortcodes.php:749 ../admin/shortcodes.php:1369
+msgid "Flip In Y"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:76 ../admin/shortcodes.php:125
+#: ../admin/shortcodes.php:352 ../admin/shortcodes.php:428
+#: ../admin/shortcodes.php:750 ../admin/shortcodes.php:1370
+msgid "Fade In"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:77 ../admin/shortcodes.php:126
+#: ../admin/shortcodes.php:353 ../admin/shortcodes.php:429
+#: ../admin/shortcodes.php:751 ../admin/shortcodes.php:1371
+msgid "Fade In Up"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:78 ../admin/shortcodes.php:127
+#: ../admin/shortcodes.php:354 ../admin/shortcodes.php:430
+#: ../admin/shortcodes.php:752 ../admin/shortcodes.php:1372
+msgid "Fade In Down"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:79 ../admin/shortcodes.php:128
+#: ../admin/shortcodes.php:355 ../admin/shortcodes.php:431
+#: ../admin/shortcodes.php:753 ../admin/shortcodes.php:1373
+msgid "Fade In Left"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:80 ../admin/shortcodes.php:129
+#: ../admin/shortcodes.php:356 ../admin/shortcodes.php:432
+#: ../admin/shortcodes.php:754 ../admin/shortcodes.php:1374
+msgid "Fade In Right"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:81 ../admin/shortcodes.php:130
+#: ../admin/shortcodes.php:357 ../admin/shortcodes.php:433
+#: ../admin/shortcodes.php:755 ../admin/shortcodes.php:1375
+msgid "Fade In Up Big"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:82 ../admin/shortcodes.php:131
+#: ../admin/shortcodes.php:358 ../admin/shortcodes.php:434
+#: ../admin/shortcodes.php:756 ../admin/shortcodes.php:1376
+msgid "Fade In Down Big"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:83 ../admin/shortcodes.php:132
+#: ../admin/shortcodes.php:359 ../admin/shortcodes.php:435
+#: ../admin/shortcodes.php:757 ../admin/shortcodes.php:1377
+msgid "Fade In Left Big"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:84 ../admin/shortcodes.php:133
+#: ../admin/shortcodes.php:360 ../admin/shortcodes.php:436
+#: ../admin/shortcodes.php:758 ../admin/shortcodes.php:1378
+msgid "Fade In Right Big"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:85 ../admin/shortcodes.php:134
+#: ../admin/shortcodes.php:361 ../admin/shortcodes.php:437
+#: ../admin/shortcodes.php:759 ../admin/shortcodes.php:1379
+msgid "Slide In Left"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:86 ../admin/shortcodes.php:135
+#: ../admin/shortcodes.php:362 ../admin/shortcodes.php:438
+#: ../admin/shortcodes.php:760 ../admin/shortcodes.php:1380
+msgid "Slide In Right"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:87 ../admin/shortcodes.php:136
+#: ../admin/shortcodes.php:363 ../admin/shortcodes.php:439
+#: ../admin/shortcodes.php:761 ../admin/shortcodes.php:1381
+msgid "Bounce In"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:88 ../admin/shortcodes.php:137
+#: ../admin/shortcodes.php:364 ../admin/shortcodes.php:440
+#: ../admin/shortcodes.php:762 ../admin/shortcodes.php:1382
+msgid "Bounce In Down"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:89 ../admin/shortcodes.php:138
+#: ../admin/shortcodes.php:365 ../admin/shortcodes.php:441
+#: ../admin/shortcodes.php:763 ../admin/shortcodes.php:1383
+msgid "Bounce In Up"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:90 ../admin/shortcodes.php:139
+#: ../admin/shortcodes.php:366 ../admin/shortcodes.php:442
+#: ../admin/shortcodes.php:764 ../admin/shortcodes.php:1384
+msgid "Bounce In Left"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:91 ../admin/shortcodes.php:140
+#: ../admin/shortcodes.php:367 ../admin/shortcodes.php:443
+#: ../admin/shortcodes.php:765 ../admin/shortcodes.php:1385
+msgid "Bounce In Right"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:92 ../admin/shortcodes.php:141
+#: ../admin/shortcodes.php:368 ../admin/shortcodes.php:444
+#: ../admin/shortcodes.php:766 ../admin/shortcodes.php:1386
+msgid "Rotate In"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:93 ../admin/shortcodes.php:142
+#: ../admin/shortcodes.php:369 ../admin/shortcodes.php:445
+#: ../admin/shortcodes.php:767 ../admin/shortcodes.php:1387
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:94 ../admin/shortcodes.php:143
+#: ../admin/shortcodes.php:370 ../admin/shortcodes.php:446
+#: ../admin/shortcodes.php:768 ../admin/shortcodes.php:1388
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:95 ../admin/shortcodes.php:144
+#: ../admin/shortcodes.php:371 ../admin/shortcodes.php:447
+#: ../admin/shortcodes.php:769 ../admin/shortcodes.php:1389
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:96 ../admin/shortcodes.php:145
+#: ../admin/shortcodes.php:372 ../admin/shortcodes.php:448
+#: ../admin/shortcodes.php:770 ../admin/shortcodes.php:1390
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:97 ../admin/shortcodes.php:146
+#: ../admin/shortcodes.php:373 ../admin/shortcodes.php:449
+#: ../admin/shortcodes.php:771 ../admin/shortcodes.php:1391
+msgid "Light Speed In"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:98 ../admin/shortcodes.php:147
+#: ../admin/shortcodes.php:374 ../admin/shortcodes.php:450
+#: ../admin/shortcodes.php:772 ../admin/shortcodes.php:1392
+msgid "Roll In"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:99 ../admin/shortcodes.php:148
+#: ../admin/shortcodes.php:375 ../admin/shortcodes.php:451
+#: ../admin/shortcodes.php:773 ../admin/shortcodes.php:1393
+msgid "Flash"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:100 ../admin/shortcodes.php:149
+#: ../admin/shortcodes.php:376 ../admin/shortcodes.php:452
+#: ../admin/shortcodes.php:774 ../admin/shortcodes.php:1394
+msgid "Bounce"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:101 ../admin/shortcodes.php:150
+#: ../admin/shortcodes.php:377 ../admin/shortcodes.php:453
+#: ../admin/shortcodes.php:775 ../admin/shortcodes.php:1395
+msgid "Shake"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:102 ../admin/shortcodes.php:151
+#: ../admin/shortcodes.php:378 ../admin/shortcodes.php:454
+#: ../admin/shortcodes.php:776 ../admin/shortcodes.php:1396
+msgid "Tada"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:103 ../admin/shortcodes.php:152
+#: ../admin/shortcodes.php:379 ../admin/shortcodes.php:455
+#: ../admin/shortcodes.php:777 ../admin/shortcodes.php:1397
+msgid "Swing"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:104 ../admin/shortcodes.php:153
+#: ../admin/shortcodes.php:380 ../admin/shortcodes.php:456
+#: ../admin/shortcodes.php:778 ../admin/shortcodes.php:1398
+msgid "Wobble"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:105 ../admin/shortcodes.php:154
+#: ../admin/shortcodes.php:381 ../admin/shortcodes.php:457
+#: ../admin/shortcodes.php:779 ../admin/shortcodes.php:1399
+msgid "Pulse"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:106 ../admin/shortcode_attributes.php:60
+msgid "Upload Image"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:107
+msgid "Choose Image"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:108
+msgid "Use Image"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:109 ../admin/shortcodes.php:20
+msgid "Section Title"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:110 ../admin/shortcodes.php:23
+msgid "Section ID"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:111
+msgid "Section Intro"
+msgstr ""
+
+#: ../admin/enqueue_scripts.php:112
+msgid "Section Outro"
+msgstr ""
+
+#: ../admin/redux.php:39
+msgid "Drag & Drop Shortcodes"
+msgstr ""
+
+#: ../admin/redux.php:44
+msgid "Drag & Drop Shortcodes Options"
+msgstr ""
+
+#: ../admin/redux.php:121
+msgid "General"
+msgstr ""
+
+#: ../admin/redux.php:127
+msgid "Disable Drag&Drop Tab"
+msgstr ""
+
+#: ../admin/redux.php:128
+msgid ""
+"Add post types for which you want to disable Drag&Drop tab (e.g. post, page, "
+"forum...)"
+msgstr ""
+
+#: ../admin/redux.php:133
+msgid "Show shortcode content in excerpt"
+msgstr ""
+
+#: ../admin/redux.php:134
+msgid ""
+"Content inside shortcode is not visible in excerpt. To enable it use this "
+"option. It will use custom function for excerpt output."
+msgstr ""
+
+#: ../admin/redux.php:140
+msgid "Sidebars"
+msgstr ""
+
+#: ../admin/redux.php:146
+msgid ""
+"You can add widgets in created sidebars and use sidebars in Sidebar "
+"shortcode "
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:341
+#: ../admin/redux/ReduxCore/framework.php:1373
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:342
+#: ../admin/redux/ReduxCore/framework.php:1374
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:343
+#: ../admin/redux/ReduxCore/framework.php:1376
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:372
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:373
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/customizer/extension_customizer.php:374
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:144
+msgid "Deactivate License"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:110
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:118
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:170
+msgid "Not Activated"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:114
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:173
+msgid "Deactivated"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:116
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:77
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:119
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:176
+msgid "Valid"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:124
+msgid "Verifying license..."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:125
+msgid "Status"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:134
+msgid "Verify License"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/edd_license/field_edd_license.php:139
+msgid "Activate License"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/extensions/edd/extension_edd.php:179
+msgid "Not Valid"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:121
+#: ../admin/redux/ReduxCore/framework.php:127
+#: ../admin/redux/ReduxCore/framework.php:300
+#: ../admin/redux/ReduxCore/framework.php:303
+msgid "Options"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:297
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:297
+msgid "Redux Framework"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:1044
+#: ../admin/redux/ReduxCore/framework.php:1045
+#: ../admin/redux/ReduxCore/framework.php:2392
+msgid "Import / Export"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:1056
+#: ../admin/redux/ReduxCore/framework.php:1057
+#: ../admin/redux/ReduxCore/framework.php:2408
+#: ../admin/redux/ReduxCore/framework.php:2523
+msgid "Options Object"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:1068
+#: ../admin/redux/ReduxCore/framework.php:1069
+#: ../admin/redux/ReduxCore/framework.php:2422
+#: ../admin/redux/ReduxCore/framework.php:2541
+msgid "System Info"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:1375
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:1651 ../admin/shortcodes.php:2493
+msgid "Default"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2259
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2321
+msgid "Expand"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2323
+#: ../admin/redux/ReduxCore/framework.php:2591
+#: ../admin/shortcode_attributes.php:166
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2325
+#: ../admin/redux/ReduxCore/framework.php:2593
+msgid "Reset Section"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2327
+#: ../admin/redux/ReduxCore/framework.php:2595
+msgid "Reset All"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2330
+#: ../admin/redux/ReduxCore/framework.php:2598
+msgid "Working..."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2341
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2347
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2354
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2355
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2356
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2459
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2460
+msgid "Import Options"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2461
+msgid "Import from file"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2461
+msgid "Import from URL"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2470
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2484
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2495
+msgid "Import"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2495
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2498
+msgid "Export Options"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2504
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2509
+msgid "Copy"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2509
+msgid "Download"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2509
+msgid "Copy Link"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/framework.php:2530
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:119
+#: ../admin/redux/ReduxCore/inc/fields/color/field_color.php:72
+#: ../admin/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ../admin/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../admin/redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:273
+#: ../admin/redux/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:307
+#: ../admin/redux/ReduxCore/inc/fields/media/field_media.php:155
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:121
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/background/field_background.php:313
+#: ../admin/redux/ReduxCore/inc/fields/media/field_media.php:161
+#: ../admin/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../admin/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ../admin/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:128
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:192
+#: ../admin/shortcode_attributes.php:128
+msgid "Remove"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:112
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:172
+msgid "All"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:125
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:196
+#: ../admin/shortcodes.php:2618
+msgid "Top"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:132
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:203
+#: ../admin/shortcodes.php:2093 ../admin/shortcodes.php:2132
+#: ../admin/shortcodes.php:2621
+msgid "Right"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:139
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:210
+#: ../admin/shortcodes.php:2619
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:146
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:217
+#: ../admin/shortcodes.php:2092 ../admin/shortcodes.php:2131
+#: ../admin/shortcodes.php:2620
+msgid "Left"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:168
+#: ../admin/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:169
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:227
+#: ../admin/redux/ReduxCore/inc/fields/spacing/field_spacing.php:228
+msgid "Units"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/group/field_group.php:76
+msgid "New"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/group/field_group.php:89
+msgid "New "
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/group/field_group.php:138
+#: ../admin/redux/ReduxCore/inc/fields/group/field_group.php:203
+msgid "Delete"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/group/field_group.php:208
+msgid "Add"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/select/field_select.php:79
+#: ../admin/redux/ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/select/field_select.php:120
+#: ../admin/redux/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:197
+#: ../admin/shortcodes.php:267 ../admin/shortcodes.php:1152
+#: ../admin/shortcodes.php:2278 ../admin/shortcodes.php:2819
+#: ../admin/shortcodes.php:3031
+msgid "Title"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:135
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:199
+#: ../admin/shortcodes.php:2437
+msgid "Description"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:137
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:201
+#: ../admin/shortcodes.php:496 ../admin/shortcodes.php:1947
+#: ../admin/shortcodes.php:3193
+msgid "URL"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:168
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:141
+msgid "Font family"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:164
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:200
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:204
+msgid "Font style"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:204
+#: ../admin/shortcodes.php:302 ../admin/shortcodes.php:1905
+#: ../admin/shortcodes.php:1938 ../admin/shortcodes.php:3184
+#: ../admin/third_party_shortcodes_support.php:106
+msgid "Style"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:230
+msgid "Font subsets"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Subsets"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font script"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:249
+#: ../admin/shortcodes.php:1911 ../admin/shortcodes.php:3157
+msgid "Size"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:258
+#: ../admin/shortcodes.php:1462
+msgid "Height"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:266
+msgid "Word Spacing"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:288
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:308
+msgid "Font color"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/fields/typography/field_typography.php:635
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../admin/redux/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: ../admin/redux/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../admin/redux/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:277
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:277
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:381
+msgid "Github Repo"
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:382
+msgid "Issue Tracker"
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:387
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../admin/redux/class.redux-plugin.php:389
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../admin/shortcode_attributes.php:65
+msgid "Upload Media"
+msgstr ""
+
+#: ../admin/shortcode_attributes.php:108
+msgid "This shortcode doesn't have attributes"
+msgstr ""
+
+#: ../admin/shortcode_attributes.php:136 ../admin/shortcode_attributes.php:159
+#: ../admin/shortcodes.php:62 ../admin/shortcodes.php:201
+#: ../admin/shortcodes.php:271 ../admin/shortcodes.php:1185
+#: ../admin/shortcodes.php:1227 ../admin/shortcodes.php:1594
+#: ../admin/shortcodes.php:1614 ../admin/shortcodes.php:1838
+#: ../admin/shortcodes.php:2098 ../admin/shortcodes.php:2168
+#: ../admin/shortcodes.php:2312 ../admin/shortcodes.php:2579
+#: ../admin/shortcodes.php:2828 ../admin/shortcodes.php:3100
+msgid "Content"
+msgstr ""
+
+#: ../admin/shortcode_attributes.php:169
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../admin/shortcode_selector.php:12
+msgid "Search"
+msgstr ""
+
+#: ../admin/shortcode_selector.php:24
+msgid ""
+"Search or pick a shortcode from the list.<br><br>To edit shortcode highlight "
+"shortcode in editor before clicking \"Add/Edit Shortcode\" button."
+msgstr ""
+
+#: ../admin/shortcodes.php:16
+msgid "Section Column"
+msgstr ""
+
+#: ../admin/shortcodes.php:24
+msgid "ID can be used for menu navigation, e.g. #about-us"
+msgstr ""
+
+#: ../admin/shortcodes.php:27
+msgid "Intro Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:30
+msgid "Outro Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:33 ../admin/shortcodes.php:166
+#: ../admin/shortcodes.php:195 ../admin/shortcodes.php:393
+#: ../admin/shortcodes.php:469 ../admin/shortcodes.php:600
+#: ../admin/shortcodes.php:909 ../admin/shortcodes.php:1319
+#: ../admin/shortcodes.php:1358 ../admin/shortcodes.php:1963
+#: ../admin/shortcodes.php:2055 ../admin/shortcodes.php:2307
+#: ../admin/shortcodes.php:2440 ../admin/shortcodes.php:2523
+#: ../admin/shortcodes.php:2573 ../admin/shortcodes.php:2644
+#: ../admin/shortcodes.php:3095 ../admin/shortcodes.php:3205
+#: ../admin/third_party_shortcodes_support.php:167
+#: ../admin/third_party_shortcodes_support.php:207
+msgid "Class"
+msgstr ""
+
+#: ../admin/shortcodes.php:34 ../admin/shortcodes.php:167
+#: ../admin/shortcodes.php:196 ../admin/shortcodes.php:394
+#: ../admin/shortcodes.php:470 ../admin/shortcodes.php:601
+#: ../admin/shortcodes.php:910 ../admin/shortcodes.php:1148
+#: ../admin/shortcodes.php:1320 ../admin/shortcodes.php:1359
+#: ../admin/shortcodes.php:1964 ../admin/shortcodes.php:2056
+#: ../admin/shortcodes.php:2308 ../admin/shortcodes.php:2441
+#: ../admin/shortcodes.php:2524 ../admin/shortcodes.php:2574
+#: ../admin/shortcodes.php:2645 ../admin/shortcodes.php:3096
+#: ../admin/shortcodes.php:3206
+#: ../admin/third_party_shortcodes_support.php:168
+#: ../admin/third_party_shortcodes_support.php:208
+msgid "Additional custom classes for custom styling"
+msgstr ""
+
+#: ../admin/shortcodes.php:47
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/shortcodes.php:50
+msgid "Parallax Amount"
+msgstr ""
+
+#: ../admin/shortcodes.php:51
+#, php-format
+msgid ""
+"Amout of parallax effect on background image, 0.1 means 10% of scroll "
+"amount, 2 means twice of scroll amount, leave blank for no parallax"
+msgstr ""
+
+#: ../admin/shortcodes.php:64
+msgid "Section With Columns"
+msgstr ""
+
+#: ../admin/shortcodes.php:65
+msgid "Sum of all column's span attributes must be 12"
+msgstr ""
+
+#: ../admin/shortcodes.php:114
+msgid "Span 1-12 Columns"
+msgstr ""
+
+#: ../admin/shortcodes.php:118 ../admin/shortcodes.php:346
+#: ../admin/shortcodes.php:422 ../admin/shortcodes.php:743
+#: ../admin/shortcodes.php:1363
+msgid "Entrance Animation"
+msgstr ""
+
+#: ../admin/shortcodes.php:158 ../admin/shortcodes.php:385
+#: ../admin/shortcodes.php:461
+msgid "Animation Duration (in ms)"
+msgstr ""
+
+#: ../admin/shortcodes.php:162 ../admin/shortcodes.php:389
+#: ../admin/shortcodes.php:465
+msgid "Animation Delay (in ms)"
+msgstr ""
+
+#: ../admin/shortcodes.php:171
+msgid "Column Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:173
+msgid "Column"
+msgstr ""
+
+#: ../admin/shortcodes.php:203
+msgid "Text / HTML"
+msgstr ""
+
+#: ../admin/shortcodes.php:204
+msgid ""
+"This shortcode is used by drag and drop builder to wrap text content inside "
+"column, so it can be manipulated as element"
+msgstr ""
+
+#: ../admin/shortcodes.php:224
+msgid "Full Word"
+msgstr ""
+
+#: ../admin/shortcodes.php:228 ../admin/shortcodes.php:231
+msgid "Abbreviation"
+msgstr ""
+
+#: ../admin/shortcodes.php:248
+msgid "Expanded accordion no."
+msgstr ""
+
+#: ../admin/shortcodes.php:249
+msgid "Which accordion section will be expanded on load, 0 for none"
+msgstr ""
+
+#: ../admin/shortcodes.php:254
+msgid "New Accordion Section"
+msgstr ""
+
+#: ../admin/shortcodes.php:255
+msgid "Accordion Section"
+msgstr ""
+
+#: ../admin/shortcodes.php:256
+msgid "Accordion"
+msgstr ""
+
+#: ../admin/shortcodes.php:273
+msgid "Single accordion section"
+msgstr ""
+
+#: ../admin/shortcodes.php:307
+msgid "No Icon"
+msgstr ""
+
+#: ../admin/shortcodes.php:312
+msgid "No Close Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:316
+msgid "Message"
+msgstr ""
+
+#: ../admin/shortcodes.php:318
+msgid "Alert Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:332
+msgid "Close"
+msgstr ""
+
+#: ../admin/shortcodes.php:398
+msgid "Animated Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:400
+msgid "Animation Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:418
+msgid "Select Image"
+msgstr ""
+
+#: ../admin/shortcodes.php:473
+msgid "Image"
+msgstr ""
+
+#: ../admin/shortcodes.php:493
+msgid "Author"
+msgstr ""
+
+#: ../admin/shortcodes.php:499
+msgid "Source"
+msgstr ""
+
+#: ../admin/shortcodes.php:503
+msgid "Blockquote"
+msgstr ""
+
+#: ../admin/shortcodes.php:505
+msgid "Blockquote Block"
+msgstr ""
+
+#: ../admin/shortcodes.php:529 ../admin/shortcodes.php:813
+msgid "Your Email"
+msgstr ""
+
+#: ../admin/shortcodes.php:533 ../admin/shortcodes.php:817
+msgid "Locale"
+msgstr ""
+
+#: ../admin/shortcodes.php:536
+msgid "Item Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:539
+msgid "Item Number"
+msgstr ""
+
+#: ../admin/shortcodes.php:542
+msgid "Item Price"
+msgstr ""
+
+#: ../admin/shortcodes.php:546 ../admin/shortcodes.php:827
+msgid "Currency"
+msgstr ""
+
+#: ../admin/shortcodes.php:550
+msgid "Show credit cards"
+msgstr ""
+
+#: ../admin/shortcodes.php:555
+msgid "Tax Rate"
+msgstr ""
+
+#: ../admin/shortcodes.php:559
+msgid "Shipping Cost"
+msgstr ""
+
+#: ../admin/shortcodes.php:562
+msgid "BuyNow PayPal Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:593
+msgid "Parent Page ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:597
+msgid "Depth"
+msgstr ""
+
+#: ../admin/shortcodes.php:604
+msgid "Children of Page"
+msgstr ""
+
+#: ../admin/shortcodes.php:623
+msgid "Clear"
+msgstr ""
+
+#: ../admin/shortcodes.php:624
+msgid "This shortcode generates clear:both div element"
+msgstr ""
+
+#: ../admin/shortcodes.php:640 ../admin/shortcodes.php:1792
+msgid "Unique ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:641 ../admin/shortcodes.php:1793
+#: ../admin/shortcodes.php:1834
+msgid "Required"
+msgstr ""
+
+#: ../admin/shortcodes.php:645
+msgid "Source Code"
+msgstr ""
+
+#: ../admin/shortcodes.php:648
+msgid "Code Prettifier"
+msgstr ""
+
+#: ../admin/shortcodes.php:649
+msgid ""
+"If you are using multiple code shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:678
+msgid ""
+"This shortcode will generate current year, no matter when post was published"
+msgstr ""
+
+#: ../admin/shortcodes.php:679
+msgid "Current Year"
+msgstr ""
+
+#: ../admin/shortcodes.php:695
+msgid "PHP Date Format"
+msgstr ""
+
+#: ../admin/shortcodes.php:698
+msgid "Target Date"
+msgstr ""
+
+#: ../admin/shortcodes.php:699
+msgid ""
+"PHP strtotime acceptable string, e.g. yesterday, last Monday, 2 days ago..."
+msgstr ""
+
+#: ../admin/shortcodes.php:702
+msgid "Date"
+msgstr ""
+
+#: ../admin/shortcodes.php:724
+msgid "e.g. Go to top"
+msgstr ""
+
+#: ../admin/shortcodes.php:729 ../admin/shortcodes.php:880
+#: ../admin/shortcodes.php:939
+msgid "With Icon"
+msgstr ""
+
+#: ../admin/shortcodes.php:733
+msgid "Divider Style"
+msgstr ""
+
+#: ../admin/shortcodes.php:783 ../admin/shortcodes.php:1403
+msgid "Animation Duration (ms)"
+msgstr ""
+
+#: ../admin/shortcodes.php:787
+msgid "Content Divider"
+msgstr ""
+
+#: ../admin/shortcodes.php:820
+msgid "Donation Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:823
+msgid "Amount"
+msgstr ""
+
+#: ../admin/shortcodes.php:831
+msgid "Show Credit Cards"
+msgstr ""
+
+#: ../admin/shortcodes.php:835
+msgid "Donate PayPal Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:868
+msgid "Link Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:871
+msgid "URL to File"
+msgstr ""
+
+#: ../admin/shortcodes.php:874
+msgid ""
+"Forces this filename, use full name with extension or leave blank for "
+"original file name"
+msgstr ""
+
+#: ../admin/shortcodes.php:875
+msgid "Filename"
+msgstr ""
+
+#: ../admin/shortcodes.php:883
+msgid "Download Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:884
+msgid ""
+"This shortcode will generate link that forces download, even if browser can "
+"open that file type, e.g. .txt or .jpg file"
+msgstr ""
+
+#: ../admin/shortcodes.php:906
+msgid "Dropcap letter"
+msgstr ""
+
+#: ../admin/shortcodes.php:913
+msgid "Dropcap Letter"
+msgstr ""
+
+#: ../admin/shortcodes.php:929
+msgid "Email Address"
+msgstr ""
+
+#: ../admin/shortcodes.php:934
+msgid "Cloak Email from Spam Bots"
+msgstr ""
+
+#: ../admin/shortcodes.php:942
+msgid "Email Link"
+msgstr ""
+
+#: ../admin/shortcodes.php:943
+msgid ""
+"This shortcode will hide email address form spam bots using JavaScript method"
+msgstr ""
+
+#: ../admin/shortcodes.php:976 ../admin/shortcodes.php:2740
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:979 ../admin/shortcodes.php:2743
+msgid "Twitter URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:982
+msgid "Google+ URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:985 ../admin/shortcodes.php:2746
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:988
+msgid "Youtube URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:991
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:994
+msgid "Github URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:997 ../admin/shortcodes.php:2225
+msgid "Feed URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1000
+msgid "Behance URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1003
+msgid "Blogger URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1006
+msgid "Delicious URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1009
+msgid "DesignContest URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1012
+msgid "DeviantART URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1015
+msgid "Digg URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1018
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1021
+msgid "Dropbox URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1024
+msgid "Email address"
+msgstr ""
+
+#: ../admin/shortcodes.php:1027
+msgid "Flickr URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1030
+msgid "Forrst URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1033
+msgid "Instagram URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1036
+msgid "Last.fm URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1039
+msgid "Myspace URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1042
+msgid "Picasa URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1045
+msgid "Skype URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1048
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1051
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1054
+msgid "Zerply URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:1057
+msgid "Follow us Profile Links"
+msgstr ""
+
+#: ../admin/shortcodes.php:1058
+msgid "Shortcode will display Social networks icons with link to entered URLs"
+msgstr ""
+
+#: ../admin/shortcodes.php:1066
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: ../admin/shortcodes.php:1068
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../admin/shortcodes.php:1070
+msgid "Follow us on Google+"
+msgstr ""
+
+#: ../admin/shortcodes.php:1072
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: ../admin/shortcodes.php:1074
+msgid "Follow us on Youtube"
+msgstr ""
+
+#: ../admin/shortcodes.php:1076
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: ../admin/shortcodes.php:1078
+msgid "Follow us on Github"
+msgstr ""
+
+#: ../admin/shortcodes.php:1080
+msgid "Our RSS feed"
+msgstr ""
+
+#: ../admin/shortcodes.php:1082
+msgid "Our Behance Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1084
+msgid "Our Blogger Blog"
+msgstr ""
+
+#: ../admin/shortcodes.php:1086
+msgid "Our Delicious"
+msgstr ""
+
+#: ../admin/shortcodes.php:1088
+msgid "Our DesignContest Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1090
+msgid "Our DeviantART Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1092
+msgid "Digg"
+msgstr ""
+
+#: ../admin/shortcodes.php:1094
+msgid "Our Dribbble Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1096
+msgid "Our Dropbox Files"
+msgstr ""
+
+#: ../admin/shortcodes.php:1098
+msgid "Send Us Email"
+msgstr ""
+
+#: ../admin/shortcodes.php:1100
+msgid "Our Flickr Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1102
+msgid "Our Forrst Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1104
+msgid "Our Instagram Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1106
+msgid "Our last.fm Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1108
+msgid "Our Myspace Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1110
+msgid "Our Picasa Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1112
+msgid "Our Skype Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1114
+msgid "Our StumbleUpon Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1116
+msgid "Our Vimeo Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1118
+msgid "Our Zerply Profile"
+msgstr ""
+
+#: ../admin/shortcodes.php:1144 ../admin/shortcodes.php:2284
+msgid "Type"
+msgstr ""
+
+#: ../admin/shortcodes.php:1147
+msgid "Custom class"
+msgstr ""
+
+#: ../admin/shortcodes.php:1154
+msgid "H1-H6 Headings"
+msgstr ""
+
+#: ../admin/shortcodes.php:1174 ../admin/shortcodes.php:1216
+msgid "Desktop"
+msgstr ""
+
+#: ../admin/shortcodes.php:1175 ../admin/shortcodes.php:1217
+msgid "Tablet"
+msgstr ""
+
+#: ../admin/shortcodes.php:1176 ../admin/shortcodes.php:1218
+msgid "Phablet"
+msgstr ""
+
+#: ../admin/shortcodes.php:1177 ../admin/shortcodes.php:1219
+msgid "Phone"
+msgstr ""
+
+#: ../admin/shortcodes.php:1178 ../admin/shortcodes.php:1220
+msgid "Deskop and Tablet"
+msgstr ""
+
+#: ../admin/shortcodes.php:1179 ../admin/shortcodes.php:1221
+msgid "Phabplet and Phone"
+msgstr ""
+
+#: ../admin/shortcodes.php:1181
+msgid "Visible on devices"
+msgstr ""
+
+#: ../admin/shortcodes.php:1187
+msgid "Visible Only on Devices"
+msgstr ""
+
+#: ../admin/shortcodes.php:1188
+msgid ""
+"This shortcode will make content visible only on selected devices, using "
+"@media css method"
+msgstr ""
+
+#: ../admin/shortcodes.php:1223
+msgid "Hide on Devices"
+msgstr ""
+
+#: ../admin/shortcodes.php:1229
+msgid "Hidden on devices"
+msgstr ""
+
+#: ../admin/shortcodes.php:1230
+msgid ""
+"This shortcode will make content hidden on selected devices, using @media "
+"css method"
+msgstr ""
+
+#: ../admin/shortcodes.php:1258
+msgid "Highlight Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:1263
+msgid "Text Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:1267
+msgid "Highlighted Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:1269
+msgid "Highlighted text"
+msgstr ""
+
+#: ../admin/shortcodes.php:1288 ../admin/shortcodes.php:1433
+#: ../admin/shortcodes.php:1959 ../admin/shortcodes.php:2424
+#: ../admin/shortcodes.php:2684 ../admin/shortcodes.php:3209
+msgid "Icon Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:1292
+msgid "Icon Size"
+msgstr ""
+
+#: ../admin/shortcodes.php:1297 ../admin/shortcodes.php:1438
+msgid "Icon Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:1302
+msgid "Rotate Icon"
+msgstr ""
+
+#: ../admin/shortcodes.php:1307
+msgid "Icon Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:1311
+msgid "Icon Box Padding"
+msgstr ""
+
+#: ../admin/shortcodes.php:1316
+msgid "Icon Box Background Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:1323
+msgid "Icon"
+msgstr ""
+
+#: ../admin/shortcodes.php:1354 ../admin/shortcodes.php:1444
+msgid "List Item"
+msgstr ""
+
+#: ../admin/shortcodes.php:1355
+msgid "Add List Item"
+msgstr ""
+
+#: ../admin/shortcodes.php:1407
+msgid "Inner Delay (ms)"
+msgstr ""
+
+#: ../admin/shortcodes.php:1411
+msgid "Unordered List"
+msgstr ""
+
+#: ../admin/shortcodes.php:1442
+msgid "Item Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:1467
+msgid "Map Type"
+msgstr ""
+
+#: ../admin/shortcodes.php:1469
+msgid "ROADMAP"
+msgstr ""
+
+#: ../admin/shortcodes.php:1470
+msgid "SATELLITE"
+msgstr ""
+
+#: ../admin/shortcodes.php:1471
+msgid "HYBRID"
+msgstr ""
+
+#: ../admin/shortcodes.php:1472
+msgid "TERRAIN"
+msgstr ""
+
+#: ../admin/shortcodes.php:1478
+msgid "Map Center Latitude"
+msgstr ""
+
+#: ../admin/shortcodes.php:1482
+msgid "Map Center Longitude"
+msgstr ""
+
+#: ../admin/shortcodes.php:1487
+msgid "Zoom Level"
+msgstr ""
+
+#: ../admin/shortcodes.php:1489
+msgid "1"
+msgstr ""
+
+#: ../admin/shortcodes.php:1490
+msgid "2"
+msgstr ""
+
+#: ../admin/shortcodes.php:1491
+msgid "3"
+msgstr ""
+
+#: ../admin/shortcodes.php:1492
+msgid "4"
+msgstr ""
+
+#: ../admin/shortcodes.php:1493
+msgid "5"
+msgstr ""
+
+#: ../admin/shortcodes.php:1494
+msgid "6"
+msgstr ""
+
+#: ../admin/shortcodes.php:1495
+msgid "7"
+msgstr ""
+
+#: ../admin/shortcodes.php:1496
+msgid "8"
+msgstr ""
+
+#: ../admin/shortcodes.php:1497
+msgid "9"
+msgstr ""
+
+#: ../admin/shortcodes.php:1498
+msgid "10"
+msgstr ""
+
+#: ../admin/shortcodes.php:1499
+msgid "11"
+msgstr ""
+
+#: ../admin/shortcodes.php:1500
+msgid "12"
+msgstr ""
+
+#: ../admin/shortcodes.php:1501
+msgid "13"
+msgstr ""
+
+#: ../admin/shortcodes.php:1502
+msgid "14"
+msgstr ""
+
+#: ../admin/shortcodes.php:1503
+msgid "15"
+msgstr ""
+
+#: ../admin/shortcodes.php:1504
+msgid "16"
+msgstr ""
+
+#: ../admin/shortcodes.php:1505
+msgid "17"
+msgstr ""
+
+#: ../admin/shortcodes.php:1506
+msgid "18"
+msgstr ""
+
+#: ../admin/shortcodes.php:1507
+msgid "19"
+msgstr ""
+
+#: ../admin/shortcodes.php:1508
+msgid "20"
+msgstr ""
+
+#: ../admin/shortcodes.php:1509
+msgid "21"
+msgstr ""
+
+#: ../admin/shortcodes.php:1515
+msgid "Enable Scrollweel"
+msgstr ""
+
+#: ../admin/shortcodes.php:1520
+msgid "Show Map Type Controls"
+msgstr ""
+
+#: ../admin/shortcodes.php:1525
+msgid "Show Pan Controls"
+msgstr ""
+
+#: ../admin/shortcodes.php:1530
+msgid "Show Zoom Controls"
+msgstr ""
+
+#: ../admin/shortcodes.php:1535
+msgid "Show Scale Controls"
+msgstr ""
+
+#: ../admin/shortcodes.php:1539
+msgid "Marker Title"
+msgstr ""
+
+#: ../admin/shortcodes.php:1543
+msgid "Custom Marker Image"
+msgstr ""
+
+#: ../admin/shortcodes.php:1547
+msgid "Marker Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:1551
+msgid "Marker Latitude"
+msgstr ""
+
+#: ../admin/shortcodes.php:1555
+msgid "Marker Longitude"
+msgstr ""
+
+#: ../admin/shortcodes.php:1558
+msgid "Google Map"
+msgstr ""
+
+#: ../admin/shortcodes.php:1596
+msgid "Content in this shortcode will be vissible to registered users only"
+msgstr ""
+
+#: ../admin/shortcodes.php:1597
+msgid "Members Only Content "
+msgstr ""
+
+#: ../admin/shortcodes.php:1616
+msgid ""
+"Content in this shortcode will be visible to non-registered visitors only"
+msgstr ""
+
+#: ../admin/shortcodes.php:1617
+msgid "Non Members Only Content "
+msgstr ""
+
+#: ../admin/shortcodes.php:1634
+msgid "Category"
+msgstr ""
+
+#: ../admin/shortcodes.php:1637
+msgid "Posts IDs"
+msgstr ""
+
+#: ../admin/shortcodes.php:1641
+msgid "Order"
+msgstr ""
+
+#: ../admin/shortcodes.php:1643
+msgid "ASC"
+msgstr ""
+
+#: ../admin/shortcodes.php:1644
+msgid "DESC"
+msgstr ""
+
+#: ../admin/shortcodes.php:1649
+msgid "Order by"
+msgstr ""
+
+#: ../admin/shortcodes.php:1651
+msgid "ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:1652
+msgid "none"
+msgstr ""
+
+#: ../admin/shortcodes.php:1653
+msgid "author"
+msgstr ""
+
+#: ../admin/shortcodes.php:1654
+msgid "title"
+msgstr ""
+
+#: ../admin/shortcodes.php:1655
+msgid "name"
+msgstr ""
+
+#: ../admin/shortcodes.php:1656
+msgid "date"
+msgstr ""
+
+#: ../admin/shortcodes.php:1657
+msgid "modified"
+msgstr ""
+
+#: ../admin/shortcodes.php:1658
+msgid "parent"
+msgstr ""
+
+#: ../admin/shortcodes.php:1659
+msgid "rand"
+msgstr ""
+
+#: ../admin/shortcodes.php:1660
+msgid "menu_order"
+msgstr ""
+
+#: ../admin/shortcodes.php:1661
+msgid "post__in"
+msgstr ""
+
+#: ../admin/shortcodes.php:1665
+msgid "Post Parent"
+msgstr ""
+
+#: ../admin/shortcodes.php:1669
+msgid "Post Type"
+msgstr ""
+
+#: ../admin/shortcodes.php:1673 ../admin/shortcodes.php:2229
+msgid "Number of Posts"
+msgstr ""
+
+#: ../admin/shortcodes.php:1677
+msgid "Offset"
+msgstr ""
+
+#: ../admin/shortcodes.php:1680
+msgid "Tag"
+msgstr ""
+
+#: ../admin/shortcodes.php:1684
+msgid "Tax Operator"
+msgstr ""
+
+#: ../admin/shortcodes.php:1687
+msgid "Tax Term"
+msgstr ""
+
+#: ../admin/shortcodes.php:1690
+msgid "Taxonomy"
+msgstr ""
+
+#: ../admin/shortcodes.php:1693
+msgid "Custom Excerpt Limit Words"
+msgstr ""
+
+#: ../admin/shortcodes.php:1694
+msgid ""
+"Enter integer number to limit number of words, if left empty default "
+"WodrPress excerpt will be used"
+msgstr ""
+
+#: ../admin/shortcodes.php:1697
+msgid "Posts Excerpts"
+msgstr ""
+
+#: ../admin/shortcodes.php:1797
+msgid "Preformated Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:1800
+msgid "Preformated Block"
+msgstr ""
+
+#: ../admin/shortcodes.php:1801
+msgid ""
+"If you are using multiple pre shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:1833
+msgid "Unique Block ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:1841
+msgid "Raw Block"
+msgstr ""
+
+#: ../admin/shortcodes.php:1842
+msgid ""
+"If you are using multiple raw shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:1872 ../admin/shortcodes.php:2024
+msgid "Pricing Feature"
+msgstr ""
+
+#: ../admin/shortcodes.php:1873
+msgid "Add Pricing Feature"
+msgstr ""
+
+#: ../admin/shortcodes.php:1876 ../admin/shortcodes.php:2718
+msgid "Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:1879
+msgid "Decsription"
+msgstr ""
+
+#: ../admin/shortcodes.php:1884
+msgid "Is Featured?"
+msgstr ""
+
+#: ../admin/shortcodes.php:1887
+msgid "Featured Info"
+msgstr ""
+
+#: ../admin/shortcodes.php:1890
+msgid "Price"
+msgstr ""
+
+#: ../admin/shortcodes.php:1893
+msgid "Currency Sign"
+msgstr ""
+
+#: ../admin/shortcodes.php:1896
+msgid "Monthly Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:1902
+msgid "Style 1"
+msgstr ""
+
+#: ../admin/shortcodes.php:1903
+msgid "Style 2"
+msgstr ""
+
+#: ../admin/shortcodes.php:1908 ../admin/shortcodes.php:3039
+#: ../admin/shortcodes.php:3153
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:1915 ../admin/shortcodes.php:3047
+#: ../admin/shortcodes.php:3161
+msgid "Small"
+msgstr ""
+
+#: ../admin/shortcodes.php:1916 ../admin/shortcodes.php:3048
+#: ../admin/shortcodes.php:3162
+msgid "Medium"
+msgstr ""
+
+#: ../admin/shortcodes.php:1917 ../admin/shortcodes.php:3049
+#: ../admin/shortcodes.php:3163
+msgid "Large"
+msgstr ""
+
+#: ../admin/shortcodes.php:1918 ../admin/shortcodes.php:3050
+#: ../admin/shortcodes.php:3164
+msgid "Extra Large"
+msgstr ""
+
+#: ../admin/shortcodes.php:1922 ../admin/shortcodes.php:3168
+msgid "Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:1926 ../admin/shortcodes.php:3058
+#: ../admin/shortcodes.php:3172
+msgid "Light"
+msgstr ""
+
+#: ../admin/shortcodes.php:1927 ../admin/shortcodes.php:3059
+#: ../admin/shortcodes.php:3173
+msgid "Dark"
+msgstr ""
+
+#: ../admin/shortcodes.php:1928 ../admin/shortcodes.php:3060
+#: ../admin/shortcodes.php:3174
+msgid "Yellow"
+msgstr ""
+
+#: ../admin/shortcodes.php:1929 ../admin/shortcodes.php:3061
+#: ../admin/shortcodes.php:3175
+msgid "Green"
+msgstr ""
+
+#: ../admin/shortcodes.php:1930 ../admin/shortcodes.php:3062
+#: ../admin/shortcodes.php:3176
+msgid "Red"
+msgstr ""
+
+#: ../admin/shortcodes.php:1931 ../admin/shortcodes.php:3063
+#: ../admin/shortcodes.php:3177
+msgid "Blue"
+msgstr ""
+
+#: ../admin/shortcodes.php:1932 ../admin/shortcodes.php:3064
+#: ../admin/shortcodes.php:3178
+msgid "Gray"
+msgstr ""
+
+#: ../admin/shortcodes.php:1933 ../admin/shortcodes.php:3065
+#: ../admin/shortcodes.php:3179
+msgid "Cyan"
+msgstr ""
+
+#: ../admin/shortcodes.php:1934 ../admin/shortcodes.php:3066
+#: ../admin/shortcodes.php:3180
+msgid "Aquamarine"
+msgstr ""
+
+#: ../admin/shortcodes.php:1942 ../admin/shortcodes.php:3074
+#: ../admin/shortcodes.php:3188
+msgid "Normal"
+msgstr ""
+
+#: ../admin/shortcodes.php:1943 ../admin/shortcodes.php:2494
+#: ../admin/shortcodes.php:3075 ../admin/shortcodes.php:3189
+msgid "Rounded"
+msgstr ""
+
+#: ../admin/shortcodes.php:1950 ../admin/shortcodes.php:2232
+#: ../admin/shortcodes.php:2298 ../admin/shortcodes.php:2861
+#: ../admin/shortcodes.php:3196
+msgid "Target"
+msgstr ""
+
+#: ../admin/shortcodes.php:1954 ../admin/shortcodes.php:2236
+#: ../admin/shortcodes.php:2302 ../admin/shortcodes.php:2753
+#: ../admin/shortcodes.php:2865 ../admin/shortcodes.php:3086
+#: ../admin/shortcodes.php:3200
+msgid "Self"
+msgstr ""
+
+#: ../admin/shortcodes.php:1955 ../admin/shortcodes.php:2237
+#: ../admin/shortcodes.php:2303 ../admin/shortcodes.php:2754
+#: ../admin/shortcodes.php:2866 ../admin/shortcodes.php:3087
+#: ../admin/shortcodes.php:3201
+msgid "Blank"
+msgstr ""
+
+#: ../admin/shortcodes.php:1960 ../admin/shortcodes.php:3092
+#: ../admin/shortcodes.php:3210
+msgid "Optional icon after button text"
+msgstr ""
+
+#: ../admin/shortcodes.php:1967
+msgid "Pricing Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:2008
+msgid "Feature Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:2011
+msgid "Value"
+msgstr ""
+
+#: ../admin/shortcodes.php:2016
+msgid "Avaliable"
+msgstr ""
+
+#: ../admin/shortcodes.php:2021
+msgid "Not Avaliable"
+msgstr ""
+
+#: ../admin/shortcodes.php:2044
+msgid "Percentage"
+msgstr ""
+
+#: ../admin/shortcodes.php:2050
+msgid "Bar Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2059
+msgid "Progress Bar"
+msgstr ""
+
+#: ../admin/shortcodes.php:2085
+msgid "Span 1-11"
+msgstr ""
+
+#: ../admin/shortcodes.php:2089 ../admin/shortcodes.php:2127
+msgid "Align"
+msgstr ""
+
+#: ../admin/shortcodes.php:2100
+msgid "Pullquote"
+msgstr ""
+
+#: ../admin/shortcodes.php:2119
+msgid "Alt Text"
+msgstr ""
+
+#: ../admin/shortcodes.php:2123
+msgid "Size px"
+msgstr ""
+
+#: ../admin/shortcodes.php:2136
+msgid "MeCard Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:2139
+msgid "MeCard Address"
+msgstr ""
+
+#: ../admin/shortcodes.php:2142
+msgid "MeCard Telephone"
+msgstr ""
+
+#: ../admin/shortcodes.php:2145
+msgid "MeCard Email"
+msgstr ""
+
+#: ../admin/shortcodes.php:2148
+msgid "MeCard URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:2152
+msgid "Quality"
+msgstr ""
+
+#: ../admin/shortcodes.php:2155
+msgid "H"
+msgstr ""
+
+#: ../admin/shortcodes.php:2156
+msgid "L"
+msgstr ""
+
+#: ../admin/shortcodes.php:2157
+msgid "M"
+msgstr ""
+
+#: ../admin/shortcodes.php:2158
+msgid "Q"
+msgstr ""
+
+#: ../admin/shortcodes.php:2164
+msgid "Border"
+msgstr ""
+
+#: ../admin/shortcodes.php:2173
+msgid "Use current page/post URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:2176
+msgid "QR Code"
+msgstr ""
+
+#: ../admin/shortcodes.php:2241
+msgid "RSS Feed"
+msgstr ""
+
+#: ../admin/shortcodes.php:2259
+msgid "No RSS items loaded"
+msgstr ""
+
+#: ../admin/shortcodes.php:2263
+msgid "Posted"
+msgstr ""
+
+#: ../admin/shortcodes.php:2281
+msgid "Icon name"
+msgstr ""
+
+#: ../admin/shortcodes.php:2288
+msgid "Round"
+msgstr ""
+
+#: ../admin/shortcodes.php:2289
+msgid "Square"
+msgstr ""
+
+#: ../admin/shortcodes.php:2290
+msgid "Round Stroke"
+msgstr ""
+
+#: ../admin/shortcodes.php:2291
+msgid "Round Aside"
+msgstr ""
+
+#: ../admin/shortcodes.php:2295 ../admin/shortcodes.php:2858
+msgid "Link"
+msgstr ""
+
+#: ../admin/shortcodes.php:2314
+msgid "Service Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:2341
+msgid "Hide Pages"
+msgstr ""
+
+#: ../admin/shortcodes.php:2346
+msgid "Hide Categories"
+msgstr ""
+
+#: ../admin/shortcodes.php:2351
+msgid "Hide Authors"
+msgstr ""
+
+#: ../admin/shortcodes.php:2354
+msgid "Sitemap"
+msgstr ""
+
+#: ../admin/shortcodes.php:2359
+msgid "Pages"
+msgstr ""
+
+#: ../admin/shortcodes.php:2360
+msgid "Categories"
+msgstr ""
+
+#: ../admin/shortcodes.php:2361
+msgid "Authors"
+msgstr ""
+
+#: ../admin/shortcodes.php:2375
+msgid "Height in Pixels"
+msgstr ""
+
+#: ../admin/shortcodes.php:2378
+msgid "Spacer"
+msgstr ""
+
+#: ../admin/shortcodes.php:2379
+msgid "This shortcode will add additional vertical space between elements"
+msgstr ""
+
+#: ../admin/shortcodes.php:2397
+msgid "Sidebar Name or ID"
+msgstr ""
+
+#: ../admin/shortcodes.php:2400
+msgid "Sidebar with widgets"
+msgstr ""
+
+#: ../admin/shortcodes.php:2401
+msgid ""
+"Display sidebar and all its widgets anywhere inside content. You can create "
+"unlimited number of sidebars in Drag&Drop options."
+msgstr ""
+
+#: ../admin/shortcodes.php:2427
+msgid "Stats Number"
+msgstr ""
+
+#: ../admin/shortcodes.php:2430
+msgid "Stats Number Sign"
+msgstr ""
+
+#: ../admin/shortcodes.php:2434
+msgid "Animation duration (ms)"
+msgstr ""
+
+#: ../admin/shortcodes.php:2444
+msgid "Stats Excerpt"
+msgstr ""
+
+#: ../admin/shortcodes.php:2469
+msgid "Knob Number"
+msgstr ""
+
+#: ../admin/shortcodes.php:2472
+msgid "Hide Number"
+msgstr ""
+
+#: ../admin/shortcodes.php:2477
+msgid "Angle Offset"
+msgstr ""
+
+#: ../admin/shortcodes.php:2478
+msgid "Starting angle in degrees, default=0"
+msgstr ""
+
+#: ../admin/shortcodes.php:2481
+msgid "Angle Arc"
+msgstr ""
+
+#: ../admin/shortcodes.php:2482
+msgid "Arc size in degrees, default=360"
+msgstr ""
+
+#: ../admin/shortcodes.php:2485
+msgid "Arc Thickness"
+msgstr ""
+
+#: ../admin/shortcodes.php:2486
+msgid "Percent of arc out of circle, 1 very thick, 100 full circle"
+msgstr ""
+
+#: ../admin/shortcodes.php:2489
+msgid "Arc Stroke Ending"
+msgstr ""
+
+#: ../admin/shortcodes.php:2498
+msgid "Full Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2503
+msgid "Empty Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2507
+msgid "Inner Circle Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2511
+msgid "Number Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2516
+msgid "Inner Circle Distance"
+msgstr ""
+
+#: ../admin/shortcodes.php:2517
+msgid ""
+"Distance of inner circle from arc, only if Inner Circle Color is defined; "
+"value in px"
+msgstr ""
+
+#: ../admin/shortcodes.php:2520
+msgid "Knob Label"
+msgstr ""
+
+#: ../admin/shortcodes.php:2527
+msgid "Knob"
+msgstr ""
+
+#: ../admin/shortcodes.php:2554
+msgid "Alternative Styling"
+msgstr ""
+
+#: ../admin/shortcodes.php:2559
+msgid "Rows with Hover"
+msgstr ""
+
+#: ../admin/shortcodes.php:2564
+msgid "Striped Rows"
+msgstr ""
+
+#: ../admin/shortcodes.php:2569
+msgid "Condensed Table"
+msgstr ""
+
+#: ../admin/shortcodes.php:2581
+msgid "Table"
+msgstr ""
+
+#: ../admin/shortcodes.php:2615
+msgid "Tabs Position"
+msgstr ""
+
+#: ../admin/shortcodes.php:2626
+msgid "Transition Effect"
+msgstr ""
+
+#: ../admin/shortcodes.php:2630
+msgid "Slide"
+msgstr ""
+
+#: ../admin/shortcodes.php:2631
+msgid "Fade"
+msgstr ""
+
+#: ../admin/shortcodes.php:2635
+msgid "Selected Tab"
+msgstr ""
+
+#: ../admin/shortcodes.php:2636
+msgid "Initially selected tab, order number"
+msgstr ""
+
+#: ../admin/shortcodes.php:2640
+msgid "Break Point"
+msgstr ""
+
+#: ../admin/shortcodes.php:2641
+msgid "Width in px. Below this width tabs will be stacked on each other."
+msgstr ""
+
+#: ../admin/shortcodes.php:2649
+msgid "New Tab"
+msgstr ""
+
+#: ../admin/shortcodes.php:2650
+msgid "Tab no."
+msgstr ""
+
+#: ../admin/shortcodes.php:2651
+msgid "Tabs"
+msgstr ""
+
+#: ../admin/shortcodes.php:2681
+msgid "Tab Title"
+msgstr ""
+
+#: ../admin/shortcodes.php:2688
+msgid "Tab Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:2690
+msgid "Single Tab"
+msgstr ""
+
+#: ../admin/shortcodes.php:2721
+msgid "Position"
+msgstr ""
+
+#: ../admin/shortcodes.php:2725
+msgid "Image URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:2728
+msgid "Profile URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:2729
+msgid "Link to about page"
+msgstr ""
+
+#: ../admin/shortcodes.php:2733
+msgid "Use Modal Instead Link"
+msgstr ""
+
+#: ../admin/shortcodes.php:2734
+msgid ""
+"Modal window will appear on click instead of go to link. Use content to add "
+"modal window content"
+msgstr ""
+
+#: ../admin/shortcodes.php:2737
+msgid "E-mail address"
+msgstr ""
+
+#: ../admin/shortcodes.php:2749
+msgid "Social Link Target"
+msgstr ""
+
+#: ../admin/shortcodes.php:2759
+msgid "Team Member"
+msgstr ""
+
+#: ../admin/shortcodes.php:2822
+msgid "Expanded"
+msgstr ""
+
+#: ../admin/shortcodes.php:2830
+msgid "Toggle Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:2870
+msgid "Tooltip Gravity"
+msgstr ""
+
+#: ../admin/shortcodes.php:2874
+msgid "South"
+msgstr ""
+
+#: ../admin/shortcodes.php:2875
+msgid "North"
+msgstr ""
+
+#: ../admin/shortcodes.php:2876
+msgid "East"
+msgstr ""
+
+#: ../admin/shortcodes.php:2877
+msgid "West"
+msgstr ""
+
+#: ../admin/shortcodes.php:2878
+msgid "Northwest"
+msgstr ""
+
+#: ../admin/shortcodes.php:2879
+msgid "Northeast"
+msgstr ""
+
+#: ../admin/shortcodes.php:2880
+msgid "Southwest"
+msgstr ""
+
+#: ../admin/shortcodes.php:2881
+msgid "Southeast"
+msgstr ""
+
+#: ../admin/shortcodes.php:2886
+msgid "Tooltip Content"
+msgstr ""
+
+#: ../admin/shortcodes.php:2888
+msgid "Tooltip"
+msgstr ""
+
+#: ../admin/shortcodes.php:2908 ../admin/shortcodes.php:2965
+msgid "Video ID or URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:2913
+msgid "Show Title"
+msgstr ""
+
+#: ../admin/shortcodes.php:2918
+msgid "Show By Line"
+msgstr ""
+
+#: ../admin/shortcodes.php:2923
+msgid "Show Portrait"
+msgstr ""
+
+#: ../admin/shortcodes.php:2928 ../admin/shortcodes.php:2975
+#: ../admin/third_party_shortcodes_support.php:51
+msgid "Autoplay"
+msgstr ""
+
+#: ../admin/shortcodes.php:2933
+msgid "Loop Playing"
+msgstr ""
+
+#: ../admin/shortcodes.php:2938
+msgid "Controls Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:2941
+msgid "Vimeo Video"
+msgstr ""
+
+#: ../admin/shortcodes.php:2970
+msgid "Fullscreen Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:2980
+msgid "Modest Branding"
+msgstr ""
+
+#: ../admin/shortcodes.php:2985
+msgid "Controls"
+msgstr ""
+
+#: ../admin/shortcodes.php:2990
+msgid "Show Info Before Play"
+msgstr ""
+
+#: ../admin/shortcodes.php:2995
+msgid "Show Related When Video Ends"
+msgstr ""
+
+#: ../admin/shortcodes.php:2998
+msgid "Start Playing at (in seconds)"
+msgstr ""
+
+#: ../admin/shortcodes.php:3001
+msgid "Stop Playing at (in seconds)"
+msgstr ""
+
+#: ../admin/shortcodes.php:3004
+msgid "Youtube Video Embed"
+msgstr ""
+
+#: ../admin/shortcodes.php:3036
+msgid "No Button"
+msgstr ""
+
+#: ../admin/shortcodes.php:3040 ../admin/shortcodes.php:3154
+msgid "Click Here"
+msgstr ""
+
+#: ../admin/shortcodes.php:3043
+msgid "Button Size"
+msgstr ""
+
+#: ../admin/shortcodes.php:3054
+msgid "Button Color"
+msgstr ""
+
+#: ../admin/shortcodes.php:3070
+msgid "Button Style"
+msgstr ""
+
+#: ../admin/shortcodes.php:3079
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/shortcodes.php:3084
+msgid "Button Target"
+msgstr ""
+
+#: ../admin/shortcodes.php:3091
+msgid "Button Icon Name"
+msgstr ""
+
+#: ../admin/shortcodes.php:3102
+msgid "Callout Box"
+msgstr ""
+
+#: ../admin/shortcodes.php:3213
+msgid "Button"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:12
+msgid "MP4 file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:16
+msgid "M4V file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:20
+msgid "WEBM file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:24
+msgid "OGV file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:28
+msgid "WMV file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:32
+msgid "FLV file"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:36
+msgid "Poster image"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:38
+msgid "Defines image to show as placeholder before the media plays"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:41
+msgid "Loop"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:48
+msgid "Allows for the looping of media"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:58
+msgid ""
+"Causes the media to automatically play as soon as the media file is ready"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:61
+msgid "Preload"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:69
+msgid "Specifies if and how the video should be loaded when the page loads"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:72
+msgid "Video - HTML5"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:86
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:87
+msgid ""
+"Show only testimonials from specific category, displays all categories if "
+"not specified (category slug string)"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:90
+#: ../admin/third_party_shortcodes_support.php:228
+msgid "Count"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:91
+msgid "Number of testimonials to show"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:95
+msgid "Show Arrows"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:117
+msgid "Slide Effect Name"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:129
+msgid "Slide Effect Easing"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:132
+msgid "Duration"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:134
+msgid "Duration of slide effect in milliseconds"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:144
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:145
+msgid ""
+"Determines whether the timeout between transitions should be paused "
+"\"onMouseOver\" (only applies when play=\"true\")"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:148
+msgid "Slide Duration"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:150
+msgid "Pause between two slide animations in milliseconds"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:159
+msgid "Slide Direction"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:162
+msgid "Autoplay Slider"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:172
+msgid "AB Testimonials Slider"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:179
+msgid "Name field placeholder"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:180
+msgid "Your Name"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:183
+msgid "Profile field placeholder"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:184
+msgid "Your Profile Link"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:187
+msgid "Image upload field label"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:188
+msgid "Your Image"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:191
+msgid "Company name field placeholder"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:192
+msgid "Your Company"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:195
+msgid "Company link field placeholder"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:196
+msgid "Your Company Link"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:199
+msgid "Testimonial textarea placeholder"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:200
+msgid "Your Testimonial"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:203
+msgid "Submit button text"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:204
+msgid "Submit Testimonial"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:211
+msgid "AB Testimonial Submit Form"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:224
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:225
+msgid ""
+"Show only items from specific category, displays all categories if not "
+"specified (category slug string)"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:229
+msgid "Number of portfolio items to be shown"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:233
+msgid "More Link Text"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:234
+msgid "Enter text to be displayed below items as a link to complete portfolio"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:237
+msgid "More Link URL"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:238
+msgid "Enter URL for link to complete portfolio"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:241
+msgid "Portfolio"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:254
+msgid "Slider Alias"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:257
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:269
+msgid "Form ID"
+msgstr ""
+
+#: ../admin/third_party_shortcodes_support.php:272
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../milacron-shortcodes.php:78
+msgid "Layout Saved"
+msgstr ""
+
+#: ../milacron-shortcodes.php:89
+msgid "Layout Deleted"
+msgstr ""
+
+#: ../milacron-shortcodes.php:92
+msgid "Layout doesn't exist"
+msgstr ""

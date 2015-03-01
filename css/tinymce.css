@@ -1,0 +1,13 @@
+/**
+ * Shortcodes  
+ */
+
+span.shortcodeblock {
+	color: #fff;
+	background: #F46714;
+	border-radius: 2px;
+	padding: 5px;
+	margin: 5px;
+	display: inline-block;
+	font-family: monospace;
+}
