@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Milacron Shortcodes
-Description: Milacron Add Shortcodes Modal
+Plugin Name: Wordpress Plugin Shortcodes
+Description: Wordpress Plugin to implement shortcodes
 Author: Michael Bontyes
-Version: 0.1
+Version: 1.0
 */
 // print_r('start | ');
 
